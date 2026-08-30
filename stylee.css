@@ -103,6 +103,123 @@ body > p{
 
 
 
+.order-button{
+    grid-column: 2;
+    grid-row: 3;
+    width : fit-content;
+    padding: 5px 15px;
+    border: 1px solid #8b451f;
+    border-radius: 20px;
+    background-color: transparent;
+    color:#8b451f;
+}
+.order-button:hover{
+    background-color: #8b451f;
+    color:white;
+}
+
+
+
+.starter-item{
+    display: grid;
+    grid-template-columns: 120px 1fr auto;
+    grid-template-rows: auto auto auto;
+    column-gap: 20px;
+    padding: 20px 0;
+    border-bottom: 1px dotted #999;
+}
+.starter-item img{
+    width :110px;
+    height: 90px;
+    object-fit:cover;
+    border-radius:8px;
+    grid-column:1;
+    grid-row: 1 / 4;
+}
+.starter-item .price{
+    grid-column: 3;
+    grid-row: 1;
+    font-weight: bold;
+    color:#8b451f
+}
+
+
+
+.main-item{
+    display: grid;
+    grid-template-columns: 120px 1fr auto;
+    grid-template-rows: auto auto auto;
+    column-gap: 20px;
+    padding: 20px 0;
+    border-bottom: 1px dotted #999;
+}
+.main-item img{
+    width :110px;
+    height: 90px;
+    object-fit:cover;
+    border-radius:8px;
+    grid-column:1;
+    grid-row: 1 / 4;
+}
+.main-item .price{
+    grid-column: 3;
+    grid-row: 1;
+    font-weight: bold;
+    color:#8b451f
+}
+
+
+
+.dessert-item{
+    display: grid;
+    grid-template-columns: 120px 1fr auto;
+    grid-template-rows: auto auto auto;
+    column-gap: 20px;
+    padding: 20px 0;
+    border-bottom: 1px dotted #999;
+}
+.dessert-item img{
+    width :110px;
+    height: 90px;
+    object-fit:cover;
+    border-radius:8px;
+    grid-column:1;
+    grid-row: 1 / 4;
+}
+.dessert-item .price{
+    grid-column: 3;
+    grid-row: 1;
+    font-weight: bold;
+    color:#8b451f
+}
+
+.beverage-item{
+    display: grid;
+    grid-template-columns: 120px 1fr auto;
+    grid-template-rows: auto auto auto;
+    column-gap: 20px;
+    padding: 20px 0;
+    border-bottom: 1px dotted #999;
+}
+.beverage-item img{
+    width :110px;
+    height: 90px;
+    object-fit:cover;
+    border-radius:8px;
+    grid-column:1;
+    grid-row: 1 / 4;
+}
+.beverage-item .price{
+    grid-column: 3;
+    grid-row: 1;
+    font-weight: bold;
+    color:#8b451f
+}
+
+
+
+
+
 
 
 

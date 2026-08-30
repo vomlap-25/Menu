@@ -25,14 +25,15 @@ header{
     font-size: 20px;
     margin: 10px 0 0;
 }
-#he h1{
+#yy{
     font-size: 36px;
+    color:#8b451f;
     margin-bottom: 20px;
     text-align: center;
 }
 
 .sat{
-    background-color: rgba(235, 140, 151, 0.933);
+    background-color:#c9ad7a;
     color: rgb(247, 247, 247);
 
     font-size: 20px;
@@ -45,7 +46,7 @@ header{
     transition:0.3s;
 }
 .sat:hover{
-    background-color: rgb(126, 31, 31);
+    background-color:#8b451f;
     color:antiquewhite
 }
 .button{
