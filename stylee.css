@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding :0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5ead5;
+    color: #3b2618;
+}
+h1{
+    text-align: center;
+    font-size: 50;
+    color:#8b451f;
+    font-style: italic;
+    margin: 40px;
+}
+body > p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#765f4b;
+    line-height:1.6;
+    padding: 0 20px;
+}
+.starter-menu{
+    width:80%;
+    max-width: 1100px;
+    margin: 30px auto;
+    padding:40px;
+    background-color:white ;
+    border-left: 2px solid #c9ad7a;
+    border-right: 2px solid #c9ad7a;
+}
+.starter-menu h2 {
+    text-align: center;
+    color:#8b451f;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+.main-menu{
+    width:80%;
+    max-width: 1100px;
+    margin: 30px auto;
+    padding:40px;
+    background-color:white ;
+    border-left: 2px solid #c9ad7a;
+    border-right: 2px solid #c9ad7a;
+}
+.main-menu h2 {
+    text-align: center;
+    color:#8b451f;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+.beverage-menu{
+    width:80%;
+    max-width: 1100px;
+    margin: 30px auto;
+    padding:40px;
+    background-color:white ;
+    border-left: 2px solid #c9ad7a;
+    border-right: 2px solid #c9ad7a;
+}
+.baverage-menu h2 {
+    text-align: center;
+    color:#8b451f;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.dessert-menu{
+    width:80%;
+    max-width: 1100px;
+    margin: 30px auto;
+    padding:40px;
+    background-color:white ;
+    border-left: 2px solid #c9ad7a;
+    border-right: 2px solid #c9ad7a;
+}
+.dessert-menu h2 {
+    text-align: center;
+    color:#8b451f;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
