@@ -1,0 +1,55 @@
+
+header{
+    min-height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(https://images.unsplash.com/photo-1669043962012-a5b8496cd664?w=1600&auto=format&fit=crop&q=90&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGluZGlhbiUyMHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D);
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+    color: white;
+}
+#he{
+    margin: 20px;
+    font-family:sans-serif,Arial, Helvetica
+
+}
+#he h1{
+    font-size: 50px;
+    margin: 0;
+}
+#he p{
+    font-size: 20px;
+    margin: 10px 0 0;
+}
+h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    margin-bottom: 20px;
+    display:inline;
+    justify-content: center;
+    gap:35px;
+    padding:20px;
+    background-color: #f8f8f8;
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
