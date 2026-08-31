@@ -33,7 +33,7 @@ header{
 }
 
 .sat{
-    background-color:#c9ad7a;
+    background-color:#8b451f;
     color: rgb(247, 247, 247);
 
     font-size: 20px;
@@ -45,10 +45,7 @@ header{
     text-decoration: none;
     transition:0.3s;
 }
-.sat:hover{
-    background-color:#8b451f;
-    color:antiquewhite
-}
+
 .button{
     display:flex;
     justify-content: center;
